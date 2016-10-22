@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tarjeta</string>
+    <string name="carnet_2015530106">Carnet: 2015530106</string>
+    <string name="apellidos_rosales_romero">Apellidos: Rosales Romero</string>
+    <string name="nacimiento_19_12_1996">Nacimiento: 19/12/1996</string>
+    <string name="nombres_edwin_manuel">Nombres: Edwin Manuel</string>
+    <string name="dsds">dsds</string>
+    <string name="_123">123</string>
+    <string name="imagen1">imagen1</string>
+</resources>
